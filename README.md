@@ -1,0 +1,1 @@
+##Mine vs Rock prediction using logistic regression
